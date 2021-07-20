@@ -6,4 +6,4 @@ metadata:
   namespace: default
 spec:
   prefix: /guestbook/
-  service: guestbook-ui
+  service: guestbook-ui:80
